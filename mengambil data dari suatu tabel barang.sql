@@ -1,0 +1,1 @@
+select * from barang where Harga_Barang >100000
